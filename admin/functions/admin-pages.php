@@ -14,5 +14,7 @@ function ibrw_solutions() {
 
 
 function ibrw_types() {
-	echo 'Here should be one solution';
+	?>
+<h1>Here should be the solution</h1>
+<?php
 }
